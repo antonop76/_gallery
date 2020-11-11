@@ -7,8 +7,7 @@ caption: 'Η αναγνώριση χειρονομιών επέτρεψε τη �
 license_url: 'https://commons.wikimedia.org/wiki/File:Gesture_Recognition.jpg'
 license_text: Courtesy of Greg Roberts
 categories:
-  - Αρχέτυπα 
-  - Μέθοδος
+  - Μοντέλα 
 tags:
   - xbox-kinect
   - wii-remote
